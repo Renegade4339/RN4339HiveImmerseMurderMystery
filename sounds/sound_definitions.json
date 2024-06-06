@@ -1,0 +1,127 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+//Zapper Firing - Primary 
+    "mob.shulker.shoot": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/zapper_fire1",
+        "sounds/IMM/zapper_fire2",
+        "sounds/IMM/zapper_fire3",
+        "sounds/IMM/zapper_fire4"
+      ]
+    },
+//Zapper Firing - Secondary
+    "conduit.short": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/zapper_fired"
+      ]
+    },
+//Zapper Trigger
+    "bubble.pop": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/zapper_trigger"
+      ]
+    },
+//"Life signs lost, shutting down."
+    "conduit.deactivate": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/player_flatline"
+      ]
+    },
+    //"i regret nothing"
+    "armor.equip_diamond": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/IMM/role_murderer",
+          "volume": 2.0
+        }
+      ]
+    },
+    //sheriff role
+    "mob.villager.no": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/IMM/role_sheriff",
+          "volume": 0.3
+        }
+      ]
+    },
+    //innocent role
+    "mob.villager.yes": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/IMM/role_innocent",
+          "volume": 0.3
+        }
+      ]
+    },
+// NOTICE: TTS VOICELINE FULLY DEPRECATED
+// NOW REPLACED WITH JUST ZAPPING SOUNDS
+// FROM HALF-LIFE
+//"Friendly shot, user deserviced."
+    "mob.endermen.scream": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/zapper_executeuser1",
+        "sounds/IMM/zapper_executeuser2",
+        "sounds/IMM/zapper_executeuser3",
+        "sounds/IMM/zapper_executeuser4",
+        "sounds/IMM/zapper_executeuser5"
+      ]
+    },
+//"Target shot."
+    "note.pling": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/zapper_hit_iff"
+      ]
+    },
+//"Credit card declined."
+    "note.bassattack": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/payment_failed"
+      ]
+    },
+//Chroma-73 Mk. V Protective Vest
+    "armor.equip_iron": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/equip_chroma1",
+        "sounds/IMM/equip_chroma2",
+        "sounds/IMM/equip_chroma3",
+        "sounds/IMM/equip_chroma4",
+        "sounds/IMM/equip_chroma5",
+        "sounds/IMM/equip_chroma6"
+      ]
+    },
+//"EVACUATE AREA, IMMEDIATELY!"
+    "random.break": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break",
+        "sounds/IMM/chroma_break1",
+        "sounds/IMM/chroma_break1",
+        "sounds/IMM/chroma_break1",
+        "sounds/IMM/chroma_break1",
+        "sounds/IMM/chroma_break2",
+        "sounds/IMM/chroma_break2",
+        "sounds/IMM/chroma_break2",
+        "sounds/IMM/chroma_break2",
+        "sounds/IMM/chroma_break3"
+      ]
+    },
+  }
+}

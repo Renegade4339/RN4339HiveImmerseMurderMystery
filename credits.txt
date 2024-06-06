@@ -1,0 +1,44 @@
+Crowbar Collective - Black Mesa:
+zapper_fire*
+zapper_fired
+zapper_trigger
+zapper_hit_iff
+one part of the deprecated zapper_hit_friendly and zapper_hit_anticitizen
+payment_failed
+suit assistant voice of equip_chroma* and chroma_break*
+military radio chatters of:
+role_sheriff
+role_innocent (edited by splicing some of the words)
+
+Ultimate Doom Visor:
+player_flatline (altered to grossly match the intended pitch)
+
+Mojang Studios:
+initial break portion of chroma_break(*)
+equipping noises of chroma_equip*
+Sprite sheet of the iron armor texture for the Chroma Armor chestplate.
+
+Brutal Half-Life Dev Team - Brutal Half-Life:
+drop portion of chroma_break(*)
+
+Valve - Half-Life:
+breaking down, and 2 unequipping noises of chroma_break(*)
+zapper_executeuser*
+
+Running With Scissors - POSTAL:
+role_murderer
+
+Zueira's Voice - Bruno Piovan:
+TTS used for:
+zapper_hit_friendly
+zapper_hit_anticitizen
+
+NOTICE: THESE TWO ARE NOW COMPLETELY DEPRECATED AND THUS REPLACED WITH zapper_executeuser*.
+
+
+xMaegann:
+Zapper sprites from years ago during the time of development. I made some alterations afterwards.
+
+Myself (Renegade4339):
+Zapper charge, and Chroma Armor sprites
+

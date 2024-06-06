@@ -1,0 +1,33 @@
+{
+      "metadata": {"authors": [
+        "Renegade4339"
+    ]},
+  "format_version": 2,
+  "header": {
+    "description": "§8For Hive's Murder Mystery.§r",
+    "name": "§2Immerse Murder Mystery§r",
+    "uuid": "6533c5c5-ce5d-4ee3-b45a-df348baf6411",
+    "version": [
+      1,
+      2,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "IMM",
+      "version": [
+        1,
+        2,
+        0
+      ],
+      "uuid": "2bd5f2f9-96be-435f-a228-0def29964ae8",
+      "type": "resources"
+    }
+  ]
+}

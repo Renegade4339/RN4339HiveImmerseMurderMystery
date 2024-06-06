@@ -1,0 +1,10 @@
+v1.0.0 (22-09-24)
+Initial release
+
+v1.1.0 (22-10-16)
+-Ghost Invasion support
+
+v1.2.0 (24-06-06)
+-Made a standalone repository in GitHub (https://github.com/Renegade4339/RN4339HiveImmerseMurderMystery)
+-Deprecated the user deserviced TTS voice line. Files for the deprecated TTS voices are still in the pack.
+-Added breaking sounds for the Chroma Armor
