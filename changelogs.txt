@@ -8,3 +8,9 @@ v1.2.0 (24-06-06)
 -Made a standalone repository in GitHub (https://github.com/Renegade4339/RN4339HiveImmerseMurderMystery)
 -Deprecated the user deserviced TTS voice line. Files for the deprecated TTS voices are still in the pack.
 -Added breaking sounds for the Chroma Armor
+
+v1.3.0 (24-10-10)
+-Murder weapon retextures
+-Added Castle town flooding sound
+-Added Museum artifact sounds
+-Refactored sound events

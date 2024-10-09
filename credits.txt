@@ -17,13 +17,26 @@ Mojang Studios:
 initial break portion of chroma_break(*)
 equipping noises of chroma_equip*
 Sprite sheet of the iron armor texture for the Chroma Armor chestplate.
+Innocent role sound
+The horn in castletown_floodgate
 
 Brutal Half-Life Dev Team - Brutal Half-Life:
 drop portion of chroma_break(*)
 
+YoutTube:
+https://youtu.be/gJ0ab_FnevI - drawbridge part of castletown_floodgate
+https://youtu.be/8MRwKZ4thGM - flooding part of castletown_floodgate
+
+Toby Fox - Undertale:
+museum_projectile
+
+id Software - Quake:
+museum_powerup
+
 Valve - Half-Life:
 breaking down, and 2 unequipping noises of chroma_break(*)
 zapper_executeuser*
+armor equip sound/armory acquisition sound
 
 Running With Scissors - POSTAL:
 role_murderer
@@ -41,4 +54,4 @@ Zapper sprites from years ago during the time of development. I made some altera
 
 Myself (Renegade4339):
 Zapper charge, and Chroma Armor sprites
-
+Weapon sprites

@@ -32,6 +32,20 @@
         "sounds/IMM/player_flatline"
       ]
     },
+    //museum - artifact absorption
+    "random.totem": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/museum_powerup"
+      ]
+    },
+    //museum - artifact projectile, becoming sheriff
+    "mob.zombie.unfect": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/museum_projectile"
+      ]
+    },
     //"i regret nothing"
     "armor.equip_diamond": {
       "category": "ui",
@@ -60,6 +74,14 @@
           "name": "sounds/IMM/role_innocent",
           "volume": 0.3
         }
+      ]
+    },
+    //la violencia porfavor?
+    "game.player.hurt": {
+      "category": "player",
+      "sounds": [
+        "sounds/IMM/player_killed1",
+        "sounds/IMM/player_killed2"
       ]
     },
 // NOTICE: TTS VOICELINE FULLY DEPRECATED
@@ -92,14 +114,10 @@
     },
 //Chroma-73 Mk. V Protective Vest
     "armor.equip_iron": {
-      "category": "ui",
+      "category": "neutral",
       "sounds": [
         "sounds/IMM/equip_chroma1",
-        "sounds/IMM/equip_chroma2",
-        "sounds/IMM/equip_chroma3",
-        "sounds/IMM/equip_chroma4",
-        "sounds/IMM/equip_chroma5",
-        "sounds/IMM/equip_chroma6"
+        "sounds/IMM/equip_chroma2"
       ]
     },
 //"EVACUATE AREA, IMMEDIATELY!"
@@ -122,6 +140,13 @@
         "sounds/IMM/chroma_break2",
         "sounds/IMM/chroma_break3"
       ]
+    },
+//"The gates are opened!"
+    "horn.call.6": {
+        "category": "ui",
+        "sounds": [
+            "sounds/IMM/castletown_floodgate"
+        ]
     }
   }
 }

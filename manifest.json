@@ -9,7 +9,7 @@
     "uuid": "6533c5c5-ce5d-4ee3-b45a-df348baf6411",
     "version": [
       1,
-      2,
+      3,
       0
     ],
     "min_engine_version": [
@@ -23,11 +23,23 @@
       "description": "IMM",
       "version": [
         1,
-        2,
+        3,
         0
       ],
       "uuid": "2bd5f2f9-96be-435f-a228-0def29964ae8",
       "type": "resources"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "blood",
+      "name": "Content Management - Blood: §4ON§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "no_blood",
+      "name": "Content Management - Blood: OFF",
+      "memory_tier": 1
     }
   ]
 }
