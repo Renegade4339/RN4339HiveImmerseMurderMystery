@@ -56,6 +56,22 @@
       "sounds/IMM/murdproj_impact3"
     ]
   },
+    "block.sand.place": {
+      "category": "player",
+      "sounds": [
+      "sounds/IMM/murdproj_impact1",
+      "sounds/IMM/murdproj_impact2",
+      "sounds/IMM/murdproj_impact3"
+      ]
+    },
+    "block.sand.break": {
+      "category": "player",
+      "sounds": [
+      "sounds/IMM/murdproj_impact1",
+      "sounds/IMM/murdproj_impact2",
+      "sounds/IMM/murdproj_impact3"
+      ]
+    },
     //"i regret nothing"
     "armor.equip_diamond": {
       "category": "ui",
