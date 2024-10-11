@@ -14,3 +14,8 @@ v1.3.0 (24-10-10)
 -Added Castle town flooding sound
 -Added Museum artifact sounds
 -Refactored sound events
+
+v1.3.1 (24-10-11)
+-Another sound event refactor
+-Added custom impact sounds for the murderer projectile
+-Added investigation (interacting a grave as sheriff)

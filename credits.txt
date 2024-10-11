@@ -13,12 +13,16 @@ role_innocent (edited by splicing some of the words)
 Ultimate Doom Visor:
 player_flatline (altered to grossly match the intended pitch)
 
+potetobloke - Bangers and Mash:
+player_killed(*) (grabbed, source unknown)
+
 Mojang Studios:
 initial break portion of chroma_break(*)
-equipping noises of chroma_equip*
+equipping noises of the unused chroma_equip*
 Sprite sheet of the iron armor texture for the Chroma Armor chestplate.
 Innocent role sound
 The horn in castletown_floodgate
+sprites of the swords and the mace
 
 Brutal Half-Life Dev Team - Brutal Half-Life:
 drop portion of chroma_break(*)
@@ -33,6 +37,15 @@ museum_projectile
 id Software - Quake:
 museum_powerup
 
+Yholl - hd_uniquesounds:
+murdproj_impact(*) as a whole
+
+Raven Software - Wolfenstein (2009):
+Portion of murdproj_impact(*)
+
+Monolith Productions - F.E.A.R:
+Portion of murdproj_impact(*)
+
 Valve - Half-Life:
 breaking down, and 2 unequipping noises of chroma_break(*)
 zapper_executeuser*
@@ -40,6 +53,9 @@ armor equip sound/armory acquisition sound
 
 Running With Scissors - POSTAL:
 role_murderer
+
+New World Interactive - Insurgency:
+sheriff_investigate(*)
 
 Zueira's Voice - Bruno Piovan:
 TTS used for:

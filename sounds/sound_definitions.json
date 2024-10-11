@@ -18,11 +18,11 @@
         "sounds/IMM/zapper_fired"
       ]
     },
-//Zapper Trigger
+//unused (formerly for the zapper trigger. artifacted by the manor cauldron)
     "bubble.pop": {
-      "category": "neutral",
+      "category": "player",
       "sounds": [
-        "sounds/IMM/zapper_trigger"
+        "sounds/IMM/imm_nosound.wav"
       ]
     },
 //"Life signs lost, shutting down."
@@ -46,6 +46,16 @@
         "sounds/IMM/museum_projectile"
       ]
     },
+    //"putti putti putti, everyone let's eat BenitezClance4. giga-putti!"
+  "dig.sand": {
+    "category": "player",
+    "volume": 0.15,
+    "sounds": [
+      "sounds/IMM/murdproj_impact1",
+      "sounds/IMM/murdproj_impact2",
+      "sounds/IMM/murdproj_impact3"
+    ]
+  },
     //"i regret nothing"
     "armor.equip_diamond": {
       "category": "ui",
