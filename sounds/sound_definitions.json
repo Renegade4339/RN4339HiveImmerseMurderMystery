@@ -18,6 +18,14 @@
         "sounds/IMM/zapper_fired"
       ]
     },
+//"don't be greedy!
+    "item.trident.return": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/coin_pickup1",
+        "sounds/IMM/coin_pickup2"
+      ]
+    },
 //unused (formerly for the zapper trigger. artifacted by the manor cauldron)
     "bubble.pop": {
       "category": "player",
@@ -46,6 +54,72 @@
         "sounds/IMM/museum_projectile"
       ]
     },
+    //picking up coins
+    "mob.zombie.unfect": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/museum_projectile"
+      ]
+    },
+    //yay!! gifts!!!!!
+  "entity.warden.step": {
+    "category": "neutral",
+    "volume": 0.95,
+    "sounds": [
+      "sounds/IMM/giftbox_appear"
+    ]
+  },
+  "mob.warden.step": {
+    "category": "neutral",
+    "volume": 0.95,
+    "sounds": [
+      "sounds/IMM/giftbox_appear"
+    ]
+  },
+    //i wonder what's inside
+  "entity.phantom.ambient": {
+    "category": "player",
+    "volume": 0.15,
+    "sounds": [
+      "sounds/IMM/giftbox_open1",
+      "sounds/IMM/giftbox_open2"
+    ]
+  },
+  "mob.phantom.idle": {
+    "category": "player",
+    "volume": 0.15,
+    "sounds": [
+      "sounds/IMM/giftbox_open1",
+      "sounds/IMM/giftbox_open2"
+    ]
+  },
+    //investigation sounds...oops, missed this one
+  "ui.loom.take_result": {
+    "category": "player",
+    "volume": 0.15,
+    "sounds": [
+      "sounds/IMM/sheriff_investigate1",
+      "sounds/IMM/sheriff_investigate2",
+      "sounds/IMM/sheriff_investigate3",
+      "sounds/IMM/sheriff_investigate4",
+      "sounds/IMM/sheriff_investigate5",
+      "sounds/IMM/sheriff_investigate6",
+      "sounds/IMM/sheriff_investigate7"
+    ]
+  },
+  "block.loom.use": {
+    "category": "player",
+    "volume": 0.15,
+    "sounds": [
+      "sounds/IMM/sheriff_investigate1",
+      "sounds/IMM/sheriff_investigate2",
+      "sounds/IMM/sheriff_investigate3",
+      "sounds/IMM/sheriff_investigate4",
+      "sounds/IMM/sheriff_investigate5",
+      "sounds/IMM/sheriff_investigate6",
+      "sounds/IMM/sheriff_investigate7"
+    ]
+  },
     //"putti putti putti, everyone let's eat BenitezClance4. giga-putti!"
   "dig.sand": {
     "category": "player",
@@ -173,6 +247,64 @@
         "sounds": [
             "sounds/IMM/castletown_floodgate"
         ]
-    }
+    },
+    //"You have broken the rules, so penalties must be exchanged."
+    //wind
+  "block.conduit.ambient": {
+    "category": "ambient",
+    "volume": 0.8,
+    "sounds": [
+      "sounds/IMM/graveyard_wind1",
+      "sounds/IMM/graveyard_wind2"
+    ]
+   },
+  "conduit.ambient": {
+    "category": "ambient",
+    "volume": 0.8,
+    "sounds": [
+      "sounds/IMM/graveyard_wind1",
+      "sounds/IMM/graveyard_wind2"
+    ]
+   },
+  "block.beacon.ambient": {
+    "category": "ambient",
+    "volume": 0.3,
+    "sounds": [
+      "sounds/IMM/graveyard_drone"
+    ]
+   },
+  "beacon.ambient": {
+    "category": "ambient",
+    "volume": 0.3,
+    "sounds": [
+      "sounds/IMM/graveyard_drone"
+    ]
+   },
+  "entity.elder_guardian.ambient": {
+    "category": "ambient",
+    "volume": 0.6,
+    "sounds": [
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3"
+    ]
+   },
+  "mob.elderguardian.idle": {
+    "category": "ambient",
+    "volume": 0.6,
+    "sounds": [
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3"
+    ]
+   }
   }
 }

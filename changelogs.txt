@@ -19,3 +19,9 @@ v1.3.1 (24-10-11)
 -Another sound event refactor
 -Added custom impact sounds for the murderer projectile
 -Added investigation (interacting a grave as sheriff)
+
+v1.3.2 (24-10-13)
+-Fixed the wooden sword file misname
+-Fixed the resound of investigating graves when using with java aspects
+-Added ambient sounds for the graveyard game over map
+-Added sounds for the gift boxes in the Backrooms

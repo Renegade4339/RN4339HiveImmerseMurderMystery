@@ -33,6 +33,13 @@ https://youtu.be/8MRwKZ4thGM - flooding part of castletown_floodgate
 
 Toby Fox - Undertale:
 museum_projectile
+giftbox appearing sound
+
+McTed - Universal Ambience mod for GZDoom:
+
+
+ZDoom Community - Knee-Deep in ZDoom:
+
 
 id Software - Quake:
 museum_powerup
@@ -56,6 +63,7 @@ role_murderer
 
 New World Interactive - Insurgency:
 sheriff_investigate(*)
+part of the giftbox pickup sound
 
 Zueira's Voice - Bruno Piovan:
 TTS used for:
