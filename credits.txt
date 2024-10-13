@@ -35,17 +35,20 @@ Toby Fox - Undertale:
 museum_projectile
 giftbox appearing sound
 
-McTed - Universal Ambience mod for GZDoom:
+McTed - Universal Ambience mod for GZDoom (https://forum.zdoom.org/viewtopic.php?t=75309):
+most of the graveyard ambient sounds
 
-
-ZDoom Community - Knee-Deep in ZDoom:
-
+ZDoom Community - Knee-Deep in ZDoom (https://zdoom.org/wiki/Knee-Deep_in_ZDoom):
+some of the graveyard ambient sounds
 
 id Software - Quake:
 museum_powerup
 
 Yholl - hd_uniquesounds:
 murdproj_impact(*) as a whole
+
+Yholl and Sgt. Shivers - Final Doomer:
+Coin Pickup sounds
 
 Raven Software - Wolfenstein (2009):
 Portion of murdproj_impact(*)
@@ -64,6 +67,9 @@ role_murderer
 New World Interactive - Insurgency:
 sheriff_investigate(*)
 part of the giftbox pickup sound
+
+Medic, Torchkas and underway - 'the:
+\u0063\u006f\u0072\u006f\u006e\u0061\u0074\u0069\u006f\u006e\u0020\u0064\u0061\u0079
 
 Zueira's Voice - Bruno Piovan:
 TTS used for:

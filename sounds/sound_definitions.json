@@ -290,7 +290,15 @@
       "sounds/IMM/graveyard_soulsb",
       "sounds/IMM/graveyard_whisper1",
       "sounds/IMM/graveyard_whisper2",
-      "sounds/IMM/graveyard_whisper3"
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_coronation"
     ]
    },
   "mob.elderguardian.idle": {
@@ -303,7 +311,15 @@
       "sounds/IMM/graveyard_soulsb",
       "sounds/IMM/graveyard_whisper1",
       "sounds/IMM/graveyard_whisper2",
-      "sounds/IMM/graveyard_whisper3"
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_coronation"
     ]
    }
   }
