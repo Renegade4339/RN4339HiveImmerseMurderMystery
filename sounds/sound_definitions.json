@@ -117,7 +117,7 @@
     //investigation sounds...oops, missed this one
   "ui.loom.take_result": {
     "category": "player",
-    "volume": 0.15,
+    "volume": 0.3,
     "sounds": [
       "sounds/IMM/sheriff_investigate1",
       "sounds/IMM/sheriff_investigate2",
@@ -130,7 +130,7 @@
   },
   "block.loom.use": {
     "category": "player",
-    "volume": 0.15,
+    "volume": 0.3,
     "sounds": [
       "sounds/IMM/sheriff_investigate1",
       "sounds/IMM/sheriff_investigate2",
@@ -273,7 +273,7 @@
     //wind
   "block.conduit.ambient": {
     "category": "ambient",
-    "volume": 0.8,
+    "volume": 1,
     "sounds": [
       "sounds/IMM/graveyard_wind1",
       "sounds/IMM/graveyard_wind2"
@@ -281,7 +281,7 @@
    },
   "conduit.ambient": {
     "category": "ambient",
-    "volume": 0.8,
+    "volume": 1,
     "sounds": [
       "sounds/IMM/graveyard_wind1",
       "sounds/IMM/graveyard_wind2"
@@ -290,14 +290,14 @@
    //drone
   "block.beacon.ambient": {
     "category": "ambient",
-    "volume": 0.3,
+    "volume": 0.8,
     "sounds": [
       "sounds/IMM/graveyard_drone"
     ]
    },
   "beacon.ambient": {
     "category": "ambient",
-    "volume": 0.3,
+    "volume": 0.8,
     "sounds": [
       "sounds/IMM/graveyard_drone"
     ]
@@ -305,7 +305,7 @@
    //Him.
   "entity.elder_guardian.ambient": {
     "category": "ambient",
-    "volume": 0.6,
+    "volume": 0.95,
     "sounds": [
       "sounds/IMM/graveyard_radioactivity",
       "sounds/IMM/graveyard_souls",
@@ -341,7 +341,7 @@
    },
   "mob.elderguardian.idle": {
     "category": "ambient",
-    "volume": 0.6,
+    "volume": 0.95,
     "sounds": [
       "sounds/IMM/graveyard_radioactivity",
       "sounds/IMM/graveyard_souls",
