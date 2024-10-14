@@ -31,9 +31,10 @@ YoutTube:
 https://youtu.be/gJ0ab_FnevI - drawbridge part of castletown_floodgate
 https://youtu.be/8MRwKZ4thGM - flooding part of castletown_floodgate
 
-Toby Fox - Undertale:
+Toby Fox - Undertale and Deltarune:
 museum_projectile
 giftbox appearing sound
+giftbox ascending sounds
 
 McTed - Universal Ambience mod for GZDoom (https://forum.zdoom.org/viewtopic.php?t=75309):
 most of the graveyard ambient sounds
@@ -63,12 +64,14 @@ armor equip sound/armory acquisition sound
 
 Running With Scissors - POSTAL:
 role_murderer
+graveyard_postal
 
 New World Interactive - Insurgency:
 sheriff_investigate(*)
 part of the giftbox pickup sound
 
-Medic, Torchkas and underway - 'the:
+Medic, Torchkas and underway - 'the (Coronation Day):
+some of the ambient sounds in the graveyard
 \u0063\u006f\u0072\u006f\u006e\u0061\u0074\u0069\u006f\u006e\u0020\u0064\u0061\u0079
 
 Zueira's Voice - Bruno Piovan:

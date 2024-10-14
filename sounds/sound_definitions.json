@@ -11,14 +11,14 @@
         "sounds/IMM/zapper_fire4"
       ]
     },
-//Zapper Firing - Secondary
+    //Zapper Firing - Secondary
     "conduit.short": {
       "category": "neutral",
       "sounds": [
         "sounds/IMM/zapper_fired"
       ]
     },
-//"don't be greedy!
+    //"don't be greedy!
     "item.trident.return": {
       "category": "neutral",
       "sounds": [
@@ -26,14 +26,14 @@
         "sounds/IMM/coin_pickup2"
       ]
     },
-//unused (formerly for the zapper trigger. artifacted by the manor cauldron)
+    //unused (formerly for the zapper trigger. artifacted by the manor cauldron)
     "bubble.pop": {
       "category": "player",
       "sounds": [
         "sounds/IMM/imm_nosound.wav"
       ]
     },
-//"Life signs lost, shutting down."
+    //"Life signs lost, shutting down."
     "conduit.deactivate": {
       "category": "ui",
       "sounds": [
@@ -91,6 +91,27 @@
     "sounds": [
       "sounds/IMM/giftbox_open1",
       "sounds/IMM/giftbox_open2"
+    ]
+  },
+    //"There it goes!"
+  "entity.evoker.prepare_attack": {
+    "category": "player",
+    "volume": 0.1,
+    "sounds": [
+      "sounds/IMM/giftbox_ascend1",
+      "sounds/IMM/giftbox_ascend2",
+      "sounds/IMM/giftbox_ascend3",
+      "sounds/IMM/giftbox_ascend4"
+    ]
+  },
+  "mob.evocation_illager.prepare_attack": {
+    "category": "player",
+    "volume": 0.1,
+    "sounds": [
+      "sounds/IMM/giftbox_ascend1",
+      "sounds/IMM/giftbox_ascend2",
+      "sounds/IMM/giftbox_ascend3",
+      "sounds/IMM/giftbox_ascend4"
     ]
   },
     //investigation sounds...oops, missed this one
@@ -266,6 +287,7 @@
       "sounds/IMM/graveyard_wind2"
     ]
    },
+   //drone
   "block.beacon.ambient": {
     "category": "ambient",
     "volume": 0.3,
@@ -280,6 +302,7 @@
       "sounds/IMM/graveyard_drone"
     ]
    },
+   //Him.
   "entity.elder_guardian.ambient": {
     "category": "ambient",
     "volume": 0.6,
@@ -298,6 +321,21 @@
       "sounds/IMM/graveyard_whisper1",
       "sounds/IMM/graveyard_whisper2",
       "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_postal",
+      "sounds/IMM/graveyard_machinery",
+      "sounds/IMM/graveyard_machinedrone",
+      "sounds/IMM/graveyard_anewworld",
+      "sounds/IMM/graveyard_postal",
+      "sounds/IMM/graveyard_machinery",
+      "sounds/IMM/graveyard_machinedrone",
+      "sounds/IMM/graveyard_anewworld",
       "sounds/IMM/graveyard_coronation"
     ]
    },
@@ -319,6 +357,21 @@
       "sounds/IMM/graveyard_whisper1",
       "sounds/IMM/graveyard_whisper2",
       "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_radioactivity",
+      "sounds/IMM/graveyard_souls",
+      "sounds/IMM/graveyard_soulsa",
+      "sounds/IMM/graveyard_soulsb",
+      "sounds/IMM/graveyard_whisper1",
+      "sounds/IMM/graveyard_whisper2",
+      "sounds/IMM/graveyard_whisper3",
+      "sounds/IMM/graveyard_postal",
+      "sounds/IMM/graveyard_machinery",
+      "sounds/IMM/graveyard_machinedrone",
+      "sounds/IMM/graveyard_anewworld",
+      "sounds/IMM/graveyard_postal",
+      "sounds/IMM/graveyard_machinery",
+      "sounds/IMM/graveyard_machinedrone",
+      "sounds/IMM/graveyard_anewworld",
       "sounds/IMM/graveyard_coronation"
     ]
    }

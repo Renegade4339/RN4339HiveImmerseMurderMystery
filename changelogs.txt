@@ -18,7 +18,7 @@ v1.3.0 (24-10-10)
 v1.3.1 (24-10-11)
 -Another sound event refactor
 -Added custom impact sounds for the murderer projectile
--Added investigation (interacting a grave as sheriff)
+-Added investigation (interacting a grave as sheriff) sounds
 
 v1.3.2 (24-10-13)
 -Fixed the wooden sword file misname
@@ -27,3 +27,7 @@ v1.3.2 (24-10-13)
 -Added sounds for the gift boxes in the Backrooms
 -Added coin pickup sounds
 -\u0054\u0048\u0045\u0020\u004b\u0049\u004e\u0047\u0020\u0049\u0053\u0020\u0046\u0041\u0053\u0054\u0020\u0041\u0050\u0050\u0052\u004f\u0041\u0043\u0048\u0049\u004e\u0047\u002e
+
+v1.3.3 (23-10-14)
+-Added giftbox ascending sounds
+-Added more ambient sounds to the graveyard
