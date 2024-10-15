@@ -141,30 +141,69 @@
       "sounds/IMM/sheriff_investigate7"
     ]
   },
-    //"putti putti putti, everyone let's eat BenitezClance4. giga-putti!"
+    //"Look Gordon, a rope!" ~~"putti putti putti, everyone let's eat BenitezClance4. giga-putti!"~~
   "dig.sand": {
     "category": "player",
     "volume": 0.15,
     "sounds": [
-      "sounds/IMM/murdproj_impact1",
-      "sounds/IMM/murdproj_impact2",
-      "sounds/IMM/murdproj_impact3"
+      "sounds/IMM/murdproj_impact1a",
+      "sounds/IMM/murdproj_impact1b",
+      "sounds/IMM/murdproj_impact1c",
+      "sounds/IMM/murdproj_impact1d",
+      "sounds/IMM/murdproj_impact2a",
+      "sounds/IMM/murdproj_impact2b",
+      "sounds/IMM/murdproj_impact2c",
+      "sounds/IMM/murdproj_impact2d",
+      "sounds/IMM/murdproj_impact3a",
+      "sounds/IMM/murdproj_impact3b",
+      "sounds/IMM/murdproj_impact3c",
+      "sounds/IMM/murdproj_impact3d",
+      "sounds/IMM/murdproj_impact4a",
+      "sounds/IMM/murdproj_impact4b",
+      "sounds/IMM/murdproj_impact4c",
+      "sounds/IMM/murdproj_impact4d"
     ]
   },
     "block.sand.place": {
       "category": "player",
       "sounds": [
-      "sounds/IMM/murdproj_impact1",
-      "sounds/IMM/murdproj_impact2",
-      "sounds/IMM/murdproj_impact3"
+      "sounds/IMM/murdproj_impact1a",
+      "sounds/IMM/murdproj_impact1b",
+      "sounds/IMM/murdproj_impact1c",
+      "sounds/IMM/murdproj_impact1d",
+      "sounds/IMM/murdproj_impact2a",
+      "sounds/IMM/murdproj_impact2b",
+      "sounds/IMM/murdproj_impact2c",
+      "sounds/IMM/murdproj_impact2d",
+      "sounds/IMM/murdproj_impact3a",
+      "sounds/IMM/murdproj_impact3b",
+      "sounds/IMM/murdproj_impact3c",
+      "sounds/IMM/murdproj_impact3d",
+      "sounds/IMM/murdproj_impact4a",
+      "sounds/IMM/murdproj_impact4b",
+      "sounds/IMM/murdproj_impact4c",
+      "sounds/IMM/murdproj_impact4d"
       ]
     },
     "block.sand.break": {
       "category": "player",
       "sounds": [
-      "sounds/IMM/murdproj_impact1",
-      "sounds/IMM/murdproj_impact2",
-      "sounds/IMM/murdproj_impact3"
+      "sounds/IMM/murdproj_impact1a",
+      "sounds/IMM/murdproj_impact1b",
+      "sounds/IMM/murdproj_impact1c",
+      "sounds/IMM/murdproj_impact1d",
+      "sounds/IMM/murdproj_impact2a",
+      "sounds/IMM/murdproj_impact2b",
+      "sounds/IMM/murdproj_impact2c",
+      "sounds/IMM/murdproj_impact2d",
+      "sounds/IMM/murdproj_impact3a",
+      "sounds/IMM/murdproj_impact3b",
+      "sounds/IMM/murdproj_impact3c",
+      "sounds/IMM/murdproj_impact3d",
+      "sounds/IMM/murdproj_impact4a",
+      "sounds/IMM/murdproj_impact4b",
+      "sounds/IMM/murdproj_impact4c",
+      "sounds/IMM/murdproj_impact4d"
       ]
     },
     //"i regret nothing"

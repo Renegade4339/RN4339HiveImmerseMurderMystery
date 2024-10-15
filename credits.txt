@@ -21,8 +21,7 @@ initial break portion of chroma_break(*)
 equipping noises of the unused chroma_equip*
 Sprite sheet of the iron armor texture for the Chroma Armor chestplate.
 Innocent role sound
-The horn in castletown_floodgate
-sprites of the swords and the mace
+sprites of the swords and the mace as base
 
 Brutal Half-Life Dev Team - Brutal Half-Life:
 drop portion of chroma_break(*)
@@ -46,21 +45,22 @@ id Software - Quake:
 museum_powerup
 
 Yholl - hd_uniquesounds:
-murdproj_impact(*) as a whole
+unused murdproj_impactold(*) as a whole
 
 Yholl and Sgt. Shivers - Final Doomer:
 Coin Pickup sounds
 
 Raven Software - Wolfenstein (2009):
-Portion of murdproj_impact(*)
+Portion of the unused murdproj_impactold(*)
 
 Monolith Productions - F.E.A.R:
-Portion of murdproj_impact(*)
+Portion of the unused murdproj_impactold(*)
 
 Valve - Half-Life:
 breaking down, and 2 unequipping noises of chroma_break(*)
 zapper_executeuser*
 armor equip sound/armory acquisition sound
+murdproj_impact*
 
 Running With Scissors - POSTAL:
 role_murderer

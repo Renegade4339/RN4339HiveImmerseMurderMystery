@@ -28,6 +28,11 @@ v1.3.2 (24-10-13)
 -Added coin pickup sounds
 -\u0054\u0048\u0045\u0020\u004b\u0049\u004e\u0047\u0020\u0049\u0053\u0020\u0046\u0041\u0053\u0054\u0020\u0041\u0050\u0050\u0052\u004f\u0041\u0043\u0048\u0049\u004e\u0047\u002e
 
-v1.3.3 (23-10-14)
+v1.3.3 (24-10-14)
 -Added giftbox ascending sounds
 -Added more ambient sounds to the graveyard
+
+v1.3.4 (24-10-15)
+-Fixed the sudden cutoff of graveyard_souls
+-Removed the fog horn of castletown_floodgate
+-Replace murderer projectile impact sounds
