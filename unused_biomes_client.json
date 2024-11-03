@@ -1,0 +1,22 @@
+{
+  "biomes": {
+    "swampland": {
+      "fog_identifier": "imm:nectar_fog"
+        },
+    "swampland_mutated": {
+      "fog_identifier": "imm:nectar_fog"
+        },
+    "jungle_hills": {
+      "fog_identifier": "imm:remnant_fog"
+        },
+    "plains": {
+      "fog_identifier": "imm:ominous_fog"
+        },
+    "roofed_forest": {
+      "fog_identifier": "imm:haunted_fog"
+        },
+    "jungle": {
+      "fog_identifier": "imm:default_fog"
+        }
+    }
+  }

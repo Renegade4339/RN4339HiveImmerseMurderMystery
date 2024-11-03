@@ -36,3 +36,6 @@ v1.3.4 (24-10-15)
 -Fixed the sudden cutoff of graveyard_souls
 -Removed the fog horn of castletown_floodgate
 -Replace murderer projectile impact sounds
+
+v1.3.5 (24-10-16)
+-Added emissives to the armor

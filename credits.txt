@@ -62,6 +62,10 @@ zapper_executeuser*
 armor equip sound/armory acquisition sound
 murdproj_impact*
 
+NeedyLlama, et al. - Glimmering Armour Trims (Resource pack)
+https://mcpedl.com/glimmering-armour-trims-resource-pack/ :
+material code for emissives
+
 Running With Scissors - POSTAL:
 role_murderer
 graveyard_postal

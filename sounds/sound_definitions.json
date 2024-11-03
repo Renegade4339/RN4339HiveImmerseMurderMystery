@@ -265,6 +265,30 @@
         "sounds/IMM/zapper_hit_iff"
       ]
     },
+//WAS THAT A [Big Shot] JUST NOW???
+    "note.didgeridoo": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/innodetector_signal"
+      ]
+    },
+    "block.note_block.didgeridoo": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/innodetector_signal"
+      ]
+    },    "note.flute": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/innodetector_signal"
+      ]
+    },
+    "block.note_block.flute": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/innodetector_signal"
+      ]
+    },
 //"Credit card declined."
     "note.bassattack": {
       "category": "ui",
