@@ -21,6 +21,7 @@
     //"don't be greedy!
     "item.trident.return": {
       "category": "neutral",
+      "volume": 0.15,
       "sounds": [
         "sounds/IMM/coin_pickup1",
         "sounds/IMM/coin_pickup2"
@@ -166,6 +167,7 @@
   },
     "block.sand.place": {
       "category": "player",
+      "volume": 0.15,
       "sounds": [
       "sounds/IMM/murdproj_impact1a",
       "sounds/IMM/murdproj_impact1b",
@@ -187,6 +189,7 @@
     },
     "block.sand.break": {
       "category": "player",
+      "volume": 0.15,
       "sounds": [
       "sounds/IMM/murdproj_impact1a",
       "sounds/IMM/murdproj_impact1b",
@@ -212,7 +215,7 @@
       "sounds": [
         {
           "name": "sounds/IMM/role_murderer",
-          "volume": 2.0
+          "volume": 0.65
         }
       ]
     },
@@ -222,7 +225,7 @@
       "sounds": [
         {
           "name": "sounds/IMM/role_sheriff",
-          "volume": 0.3
+          "volume": 0.15
         }
       ]
     },
@@ -244,12 +247,13 @@
         "sounds/IMM/player_killed2"
       ]
     },
-// NOTICE: TTS VOICELINE FULLY DEPRECATED
+// NOTICE: TTS VOICELINES ARE REMOVED
 // NOW REPLACED WITH JUST ZAPPING SOUNDS
 // FROM HALF-LIFE
 //"Friendly shot, user deserviced."
     "mob.endermen.scream": {
       "category": "ui",
+      "volume": 0.5,
       "sounds": [
         "sounds/IMM/zapper_executeuser1",
         "sounds/IMM/zapper_executeuser2",
