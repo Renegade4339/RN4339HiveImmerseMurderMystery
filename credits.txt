@@ -67,6 +67,7 @@ breaking down, and 2 unequipping noises of chroma_break(*)
 zapper_executeuser*
 armor equip sound/armory acquisition sound
 murdproj_impact*
+graveyard_souls(a/b) (https://youtu.be/Majl8PbzpXU)
 
 Running With Scissors - POSTAL:
 role_murderer
