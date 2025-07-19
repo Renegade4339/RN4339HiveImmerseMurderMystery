@@ -68,6 +68,7 @@ zapper_executeuser*
 armor equip sound/armory acquisition sound
 murdproj_impact*
 graveyard_souls(a/b) (https://youtu.be/Majl8PbzpXU)
+imm_ambiemce10 to imm_ambience13
 
 Running With Scissors - POSTAL:
 role_murderer
@@ -81,9 +82,6 @@ Westwood Studios - Command And Conquer: Red Alert 2:
 current sheriff_investigate (Beacon sound)
 immlights_on (Defense building powered on)
 
-GSC Game World - S.T.A.L.K.E.R.: Shadow of Chernobyl:
-imm_ambience1 to imm_ambience26
-
 D64 Team and Community - Doom 64 Soundfont:
 (utilized to make)
 imm_ambience27 to imm_ambience32
@@ -96,8 +94,12 @@ TTS used for:
 zapper_hit_friendly
 zapper_hit_anticitizen
 
-NOTICE: THESE TWO ARE NOW COMPLETELY DEPRECATED AND THUS REPLACED WITH zapper_executeuser*.
+https://www.moddb.com/games/doom-ii/addons/universal-ambience - (various):
+imm_ambience1 to imm_ambience26
 
+NOTICE A: THESE TWO ARE NOW COMPLETELY DEPRECATED AND THUS REPLACED WITH zapper_executeuser*.
+NOTICE B: THE CREDITS FILE MAY BE INACCURATE AND/OR MISSING CERTAIN ENTITIES. PLEASE CONTACT WITH
+ME IN THE REPOSITORY'S ISSUES TO TRACK DOWN WHERE IT CAME FROM
 
 xMaegann:
 Zapper sprites from years ago during the time of development. I made some alterations afterwards.
