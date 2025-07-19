@@ -7,13 +7,15 @@ one part of the deprecated zapper_hit_friendly and zapper_hit_anticitizen
 payment_failed
 suit assistant voice of equip_chroma* and chroma_break*
 military radio chatters of:
-role_sheriff
-role_innocent (edited by splicing some of the words)
+old role_sheriff
 
 Ultimate Doom Visor:
-player_flatline (altered to grossly match the intended pitch)
+player_flatline (altered to grossly match the intended pitch) (now unused)
 
-potetobloke - Bangers and Mash:
+Scott Cawthon - Five Nights At Freddy's:
+current player_flatline (Powerdown)
+
+potetobloke - Bangers and Mash (Hideous Destructor mod):
 player_killed(*) (grabbed, source unknown)
 
 Mojang Studios:
@@ -26,7 +28,7 @@ sprites of the swords and the mace as base
 Brutal Half-Life Dev Team - Brutal Half-Life:
 drop portion of chroma_break(*)
 
-YoutTube:
+YouTube:
 https://youtu.be/gJ0ab_FnevI - drawbridge part of castletown_floodgate
 https://youtu.be/8MRwKZ4thGM - flooding part of castletown_floodgate
 
@@ -41,8 +43,12 @@ most of the graveyard ambient sounds
 ZDoom Community - Knee-Deep in ZDoom (https://zdoom.org/wiki/Knee-Deep_in_ZDoom):
 some of the graveyard ambient sounds
 
-id Software - Quake:
+id Software - Quake and DOOM:
 museum_powerup
+coin_spawn (from DSITMBK)
+
+Sound Idea Series 4000:
+role_sheriff (Gun, Shot Gun - 12 Gauge: Pump Action 01)
 
 Yholl - hd_uniquesounds:
 unused murdproj_impactold(*) as a whole
@@ -62,21 +68,27 @@ zapper_executeuser*
 armor equip sound/armory acquisition sound
 murdproj_impact*
 
-NeedyLlama, et al. - Glimmering Armour Trims (Resource pack)
-https://mcpedl.com/glimmering-armour-trims-resource-pack/ :
-material code for emissives
-
 Running With Scissors - POSTAL:
 role_murderer
 graveyard_postal
 
 New World Interactive - Insurgency:
-sheriff_investigate(*)
+old sheriff_investigate(*)
 part of the giftbox pickup sound
+
+Westwood Studios - Command And Conquer: Red Alert 2:
+current sheriff_investigate (Beacon sound)
+immlights_on (Defense building powered on)
+
+GSC Game World - S.T.A.L.K.E.R.: Shadow of Chernobyl:
+imm_ambience1 to imm_ambience26
+
+D64 Team and Community - Doom 64 Soundfont:
+(utilized to make)
+imm_ambience27 to imm_ambience32
 
 Medic, Torchkas and underway - 'the (Coronation Day):
 some of the ambient sounds in the graveyard
-\u0063\u006f\u0072\u006f\u006e\u0061\u0074\u0069\u006f\u006e\u0020\u0064\u0061\u0079
 
 Zueira's Voice - Bruno Piovan:
 TTS used for:

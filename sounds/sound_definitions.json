@@ -1,7 +1,7 @@
 {
   "format_version": "1.14.0",
   "sound_definitions": {
-//Zapper Firing - Primary 
+    //Zapper Firing - Primary 
     "mob.shulker.shoot": {
       "category": "neutral",
       "sounds": [
@@ -27,6 +27,13 @@
         "sounds/IMM/coin_pickup2"
       ]
     },
+    //coins spawning
+    "random.pop": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IMM/coin_spawn"
+      ]
+    },
     //unused (formerly for the zapper trigger. artifacted by the manor cauldron)
     "bubble.pop": {
       "category": "player",
@@ -34,11 +41,18 @@
         "sounds/IMM/imm_nosound.wav"
       ]
     },
-    //"Life signs lost, shutting down."
+    //HAR HAR HAHAR HAR
     "conduit.deactivate": {
       "category": "ui",
       "sounds": [
         "sounds/IMM/player_flatline"
+      ]
+    },
+    //"New construction options."
+    "conduit.activate": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IMM/immlights_on"
       ]
     },
     //museum - artifact absorption
@@ -49,13 +63,12 @@
       ]
     },
     //museum - artifact projectile, becoming sheriff
-    "mob.zombie.unfect": {
+    "zombie.unfect": {
       "category": "neutral",
       "sounds": [
         "sounds/IMM/museum_projectile"
       ]
     },
-    //picking up coins
     "mob.zombie.unfect": {
       "category": "neutral",
       "sounds": [
@@ -120,26 +133,14 @@
     "category": "player",
     "volume": 0.3,
     "sounds": [
-      "sounds/IMM/sheriff_investigate1",
-      "sounds/IMM/sheriff_investigate2",
-      "sounds/IMM/sheriff_investigate3",
-      "sounds/IMM/sheriff_investigate4",
-      "sounds/IMM/sheriff_investigate5",
-      "sounds/IMM/sheriff_investigate6",
-      "sounds/IMM/sheriff_investigate7"
+      "sounds/IMM/sheriff_investigate"
     ]
   },
   "block.loom.use": {
     "category": "player",
     "volume": 0.3,
     "sounds": [
-      "sounds/IMM/sheriff_investigate1",
-      "sounds/IMM/sheriff_investigate2",
-      "sounds/IMM/sheriff_investigate3",
-      "sounds/IMM/sheriff_investigate4",
-      "sounds/IMM/sheriff_investigate5",
-      "sounds/IMM/sheriff_investigate6",
-      "sounds/IMM/sheriff_investigate7"
+      "sounds/IMM/sheriff_investigate"
     ]
   },
     //"Look Gordon, a rope!" ~~"putti putti putti, everyone let's eat BenitezClance4. giga-putti!"~~
@@ -247,10 +248,10 @@
         "sounds/IMM/player_killed2"
       ]
     },
-// NOTICE: TTS VOICELINES ARE REMOVED
-// NOW REPLACED WITH JUST ZAPPING SOUNDS
-// FROM HALF-LIFE
-//"Friendly shot, user deserviced."
+    // NOTICE: TTS VOICELINES ARE REMOVED
+    // NOW REPLACED WITH JUST ZAPPING SOUNDS
+    // FROM HALF-LIFE
+    //"Friendly shot, user deserviced."
     "mob.endermen.scream": {
       "category": "ui",
       "volume": 0.5,
@@ -262,14 +263,14 @@
         "sounds/IMM/zapper_executeuser5"
       ]
     },
-//"Target shot."
+    //"Target shot."
     "note.pling": {
       "category": "ui",
       "sounds": [
         "sounds/IMM/zapper_hit_iff"
       ]
     },
-//WAS THAT A [Big Shot] JUST NOW???
+    //WAS THAT A [Big Shot] JUST NOW???
     "note.didgeridoo": {
       "category": "ui",
       "sounds": [
@@ -293,14 +294,14 @@
         "sounds/IMM/innodetector_signal"
       ]
     },
-//"Credit card declined."
+    //"Credit card declined."
     "note.bassattack": {
       "category": "ui",
       "sounds": [
         "sounds/IMM/payment_failed"
       ]
     },
-//Chroma-73 Mk. V Protective Vest
+    //Chroma-73 Mk. V Protective Vest
     "armor.equip_iron": {
       "category": "neutral",
       "sounds": [
@@ -308,7 +309,7 @@
         "sounds/IMM/equip_chroma2"
       ]
     },
-//"EVACUATE AREA, IMMEDIATELY!"
+    //"EVACUATE AREA, IMMEDIATELY!"
     "random.break": {
       "category": "neutral",
       "sounds": [
@@ -329,7 +330,7 @@
         "sounds/IMM/chroma_break3"
       ]
     },
-//"The gates are opened!"
+    //"The gates are opened!"
     "horn.call.6": {
         "category": "ui",
         "sounds": [
@@ -441,6 +442,45 @@
       "sounds/IMM/graveyard_anewworld",
       "sounds/IMM/graveyard_coronation"
     ]
-   }
+   },
+   //caves..?
+  "ambient.cave": {
+    "category": "ambient",
+    "volume": 0.45,
+    "sounds": [
+      "sounds/IMM/imm_ambience1",
+      "sounds/IMM/imm_ambience2",
+      "sounds/IMM/imm_ambience3",
+      "sounds/IMM/imm_ambience4",
+      "sounds/IMM/imm_ambience5",
+      "sounds/IMM/imm_ambience6",
+      "sounds/IMM/imm_ambience7",
+      "sounds/IMM/imm_ambience8",
+      "sounds/IMM/imm_ambience9",
+      "sounds/IMM/imm_ambience10",
+      "sounds/IMM/imm_ambience11",
+      "sounds/IMM/imm_ambience12",
+      "sounds/IMM/imm_ambience13",
+      "sounds/IMM/imm_ambience14",
+      "sounds/IMM/imm_ambience15",
+      "sounds/IMM/imm_ambience16",
+      "sounds/IMM/imm_ambience17",
+      "sounds/IMM/imm_ambience18",
+      "sounds/IMM/imm_ambience19",
+      "sounds/IMM/imm_ambience20",
+      "sounds/IMM/imm_ambience21",
+      "sounds/IMM/imm_ambience22",
+      "sounds/IMM/imm_ambience23",
+      "sounds/IMM/imm_ambience24",
+      "sounds/IMM/imm_ambience25",
+      "sounds/IMM/imm_ambience26",
+      "sounds/IMM/imm_ambience27",
+      "sounds/IMM/imm_ambience28",
+      "sounds/IMM/imm_ambience29",
+      "sounds/IMM/imm_ambience30",
+      "sounds/IMM/imm_ambience31",
+      "sounds/IMM/imm_ambience32"
+    ]
   }
+ }
 }

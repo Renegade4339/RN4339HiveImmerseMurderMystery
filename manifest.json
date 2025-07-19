@@ -5,11 +5,11 @@
   "format_version": 2,
   "header": {
     "description": "§8For Hive's Murder Mystery.§r",
-    "name": "§2Immerse Murder Mystery§r",
+    "name": "§8Immerse §4Murder §bMystery§r",
     "uuid": "6533c5c5-ce5d-4ee3-b45a-df348baf6411",
     "version": [
       1,
-      4,
+      5,
       0
     ],
     "min_engine_version": [
@@ -23,7 +23,7 @@
       "description": "IMM",
       "version": [
         1,
-        4,
+        5,
         0
       ],
       "uuid": "2bd5f2f9-96be-435f-a228-0def29964ae8",
